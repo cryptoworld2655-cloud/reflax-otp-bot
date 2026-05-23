@@ -8,8 +8,8 @@ import google.generativeai as genai
 # =============================================
 # CONFIG — ক্রেডেনশিয়ালস ও ব্র্যান্ডিং
 # =============================================
-BOT_TOKEN = "7726729754:AAG7H4R5PLT3ZWoPFga16RFcBbWchExK9Gk"
-GEMINI_KEY = "AIzaSyBzsijt28Ui0xvGBQZZ-1IVtoCKd7M0sN8"
+BOT_TOKEN = "7726729754:AAG7H4R5PLT3ZWoPFgaWchExK9Gk"
+GEMINI_KEY = "AIzaSyBzsiIVtoCKd7M0sN8"
 ADMIN_IDS = [6423903661, 6511682794]
 DEFAULT_SUPPORT = "https://t.me/SAFIN_AHMED_1"
 
